@@ -14,7 +14,7 @@
             },
             {
               "data": {
-                "url": "https://raw.githubusercontent.com/BenAbrahamsMonash/Week9Homework/main/Final_Smart_Cities.csv"
+                "url": "https://raw.githubusercontent.com/BenAbrahamsMonash/FIT3179Assignment2/main/Final_Smart_Cities.csv"
               },
               "mark": {"type": "circle", "tooltip": {"content": "data"}},
               "encoding": {
