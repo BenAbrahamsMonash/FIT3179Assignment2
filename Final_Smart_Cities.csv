@@ -1,4 +1,4 @@
-City,Id,Country,Smart_Mobility ,Smart_Environment,Smart_Government ,Smart_Economy ,Smart_People,Smart_Living,SmartCity_Index,Relative_Melb_Index,lat,lng,iso2,population
+City,Id,Country,Smart Mobility Index,Smart Environment Index,Smart Government Index,Smart Economy Index,Smart People Index,Smart Living Index,Smart City Index,Relative Index To Melbourne,lat,lng,iso2,population
 Oslo,1,Norway,6480,6512,7516,4565,8618,9090,7138,1077,59.9111,10.7528,NO,693494
 Bergen,2,Norway,7097,6876,7350,4905,8050,9090,7296,1235,60.3925,5.3233,NO,257087
 Amsterdam,3,Netherlands,7540,5558,8528,8095,7098,7280,7311,1250,52.3667,4.8833,NL,862965
