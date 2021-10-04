@@ -1,0 +1,571 @@
+"City","Id","Country","variable","value"
+"Oslo",1,"Norway","Smart.Mobility.Index",6480
+"Bergen",2,"Norway","Smart.Mobility.Index",7097
+"Amsterdam",3,"Netherlands","Smart.Mobility.Index",7540
+"Copenhagen",4,"Denmark","Smart.Mobility.Index",7490
+"Stockholm",5,"Sweden","Smart.Mobility.Index",6122
+"Montreal",6,"Canada","Smart.Mobility.Index",7490
+"Vienna",7,"Austria","Smart.Mobility.Index",5683
+"Odense",8,"Denmark","Smart.Mobility.Index",6160
+"Singapore",9,"Singapore","Smart.Mobility.Index",5790
+"Boston",10,"United States","Smart.Mobility.Index",7870
+"Zurich",11,"Switzerland","Smart.Mobility.Index",5782
+"Trondheim",12,"Norway","Smart.Mobility.Index",6492
+"Aalborg",14,"Denmark","Smart.Mobility.Index",5593
+"Ottawa",15,"Canada","Smart.Mobility.Index",6793
+"Stavanger",17,"Norway","Smart.Mobility.Index",5317
+"Los Angeles",18,"United States","Smart.Mobility.Index",7745
+"Helsinki",19,"Finland","Smart.Mobility.Index",5765
+"Vancouver",20,"Canada","Smart.Mobility.Index",5975
+"Berlin",21,"Germany","Smart.Mobility.Index",7677
+"Toronto",22,"Canada","Smart.Mobility.Index",6780
+"New York",23,"United States","Smart.Mobility.Index",7607
+"Chicago",24,"United States","Smart.Mobility.Index",8110
+"Taipei",25,"Taiwan","Smart.Mobility.Index",4978
+"Reykjavik",27,"Iceland","Smart.Mobility.Index",3785
+"Lyon",28,"France","Smart.Mobility.Index",7295
+"Helsingborg",29,"Sweden","Smart.Mobility.Index",4578
+"Munich",30,"Germany","Smart.Mobility.Index",6265
+"Philadelphia",31,"United States","Smart.Mobility.Index",7478
+"Hamburg",32,"Germany","Smart.Mobility.Index",7273
+"Geneva",33,"Switzerland","Smart.Mobility.Index",4870
+"Luxembourg",34,"Luxembourg","Smart.Mobility.Index",3747
+"Aarhus",35,"Denmark","Smart.Mobility.Index",5577
+"Turku",36,"Finland","Smart.Mobility.Index",4530
+"Espoo",37,"Finland","Smart.Mobility.Index",5342
+"Paris",38,"France","Smart.Mobility.Index",6362
+"Hannover",39,"Germany","Smart.Mobility.Index",6420
+"Strasbourg",40,"France","Smart.Mobility.Index",5620
+"Joensuu",41,"Finland","Smart.Mobility.Index",5045
+"Sydney",42,"Australia","Smart.Mobility.Index",6263
+"San Francisco",44,"United States","Smart.Mobility.Index",7217
+"Oulu",45,"Finland","Smart.Mobility.Index",5258
+"Cologne",46,"Germany","Smart.Mobility.Index",6825
+"Bochum",47,"Germany","Smart.Mobility.Index",4442
+"Stuttgart",48,"Germany","Smart.Mobility.Index",5525
+"London",50,"United Kingdom","Smart.Mobility.Index",7178
+"Tampere",51,"Finland","Smart.Mobility.Index",5203
+"Adelaide",52,"Australia","Smart.Mobility.Index",6313
+"Melbourne",53,"Australia","Smart.Mobility.Index",7230
+"Tokyo",54,"Japan","Smart.Mobility.Index",7787
+"Perth",56,"Australia","Smart.Mobility.Index",6677
+"Vantaa",57,"Finland","Smart.Mobility.Index",5223
+"Auckland",58,"New Zealand","Smart.Mobility.Index",4913
+"Osaka",59,"Japan","Smart.Mobility.Index",7233
+"Bordeaux",60,"France","Smart.Mobility.Index",5550
+"Milan",61,"Italy","Smart.Mobility.Index",5512
+"Madrid",62,"Spain","Smart.Mobility.Index",6715
+"Daejeon",63,"South Korea","Smart.Mobility.Index",7018
+"Nantes",64,"France","Smart.Mobility.Index",5512
+"Brussels",65,"Belgium","Smart.Mobility.Index",4447
+"Marseille",66,"France","Smart.Mobility.Index",6087
+"Leeds",67,"United Kingdom","Smart.Mobility.Index",6348
+"Lahti",68,"Finland","Smart.Mobility.Index",4290
+"Dublin",69,"Ireland","Smart.Mobility.Index",3333
+"Abu Dhabi",70,"United Arab Emirates","Smart.Mobility.Index",7302
+"Verona",71,"Italy","Smart.Mobility.Index",5070
+"Seoul",72,"South Korea","Smart.Mobility.Index",6250
+"Nice",73,"France","Smart.Mobility.Index",5358
+"Tallinn",74,"Estonia","Smart.Mobility.Index",3880
+"Dubai",75,"United Arab Emirates","Smart.Mobility.Index",7280
+"Catania",76,"Italy","Smart.Mobility.Index",4310
+"Bayreuth",77,"Germany","Smart.Mobility.Index",3932
+"Turin",78,"Italy","Smart.Mobility.Index",4863
+"Florence",79,"Italy","Smart.Mobility.Index",4792
+"Birmingham",80,"United Kingdom","Smart.Mobility.Index",6383
+"Budapest",81,"Hungary","Smart.Mobility.Index",5313
+"Bari",82,"Italy","Smart.Mobility.Index",3920
+"Bratislava",83,"Slovakia","Smart.Mobility.Index",4335
+"Ljubljana",84,"Slovenia","Smart.Mobility.Index",4540
+"Perugia",85,"Italy","Smart.Mobility.Index",4790
+"Hong Kong",87,"China","Smart.Mobility.Index",6143
+"Barcelona",88,"Spain","Smart.Mobility.Index",5588
+"Ancona",89,"Italy","Smart.Mobility.Index",4208
+"Lisbon",90,"Portugal","Smart.Mobility.Index",4875
+"Prague",91,"Czech Republic","Smart.Mobility.Index",5128
+"Rome",92,"Italy","Smart.Mobility.Index",5808
+"Shanghai",93,"China","Smart.Mobility.Index",6870
+"Naples",96,"Italy","Smart.Mobility.Index",3175
+"Moscow",97,"Russia","Smart.Mobility.Index",5015
+"Riga",98,"Latvia","Smart.Mobility.Index",4152
+"Beijing",99,"China","Smart.Mobility.Index",7610
+"Calgary",101,"Canada","Smart.Mobility.Index",6675
+"Edmonton",102,"Canada","Smart.Mobility.Index",5801
+"Västerås",13,"Sweden","Smart.Mobility.Index",4683
+"Jyväskylä",55,"Finland","Smart.Mobility.Index",3900
+"Düsseldorf",26,"Germany","Smart.Mobility.Index",6658
+"Oslo",1,"Norway","Smart.Environment.Index",6512
+"Bergen",2,"Norway","Smart.Environment.Index",6876
+"Amsterdam",3,"Netherlands","Smart.Environment.Index",5558
+"Copenhagen",4,"Denmark","Smart.Environment.Index",7920
+"Stockholm",5,"Sweden","Smart.Environment.Index",7692
+"Montreal",6,"Canada","Smart.Environment.Index",4848
+"Vienna",7,"Austria","Smart.Environment.Index",7608
+"Odense",8,"Denmark","Smart.Environment.Index",8404
+"Singapore",9,"Singapore","Smart.Environment.Index",4344
+"Boston",10,"United States","Smart.Environment.Index",5224
+"Zurich",11,"Switzerland","Smart.Environment.Index",8844
+"Trondheim",12,"Norway","Smart.Environment.Index",7102
+"Aalborg",14,"Denmark","Smart.Environment.Index",8312
+"Ottawa",15,"Canada","Smart.Environment.Index",5136
+"Stavanger",17,"Norway","Smart.Environment.Index",7162
+"Los Angeles",18,"United States","Smart.Environment.Index",4574
+"Helsinki",19,"Finland","Smart.Environment.Index",6140
+"Vancouver",20,"Canada","Smart.Environment.Index",5348
+"Berlin",21,"Germany","Smart.Environment.Index",7090
+"Toronto",22,"Canada","Smart.Environment.Index",4712
+"New York",23,"United States","Smart.Environment.Index",4468
+"Chicago",24,"United States","Smart.Environment.Index",4680
+"Taipei",25,"Taiwan","Smart.Environment.Index",4366
+"Reykjavik",27,"Iceland","Smart.Environment.Index",6340
+"Lyon",28,"France","Smart.Environment.Index",7298
+"Helsingborg",29,"Sweden","Smart.Environment.Index",8312
+"Munich",30,"Germany","Smart.Environment.Index",7454
+"Philadelphia",31,"United States","Smart.Environment.Index",4800
+"Hamburg",32,"Germany","Smart.Environment.Index",7272
+"Geneva",33,"Switzerland","Smart.Environment.Index",8706
+"Luxembourg",34,"Luxembourg","Smart.Environment.Index",7090
+"Aarhus",35,"Denmark","Smart.Environment.Index",8102
+"Turku",36,"Finland","Smart.Environment.Index",6504
+"Espoo",37,"Finland","Smart.Environment.Index",6458
+"Paris",38,"France","Smart.Environment.Index",6586
+"Hannover",39,"Germany","Smart.Environment.Index",7878
+"Strasbourg",40,"France","Smart.Environment.Index",7570
+"Joensuu",41,"Finland","Smart.Environment.Index",6730
+"Sydney",42,"Australia","Smart.Environment.Index",3890
+"San Francisco",44,"United States","Smart.Environment.Index",5148
+"Oulu",45,"Finland","Smart.Environment.Index",6488
+"Cologne",46,"Germany","Smart.Environment.Index",7514
+"Bochum",47,"Germany","Smart.Environment.Index",7998
+"Stuttgart",48,"Germany","Smart.Environment.Index",7802
+"London",50,"United Kingdom","Smart.Environment.Index",6496
+"Tampere",51,"Finland","Smart.Environment.Index",6534
+"Adelaide",52,"Australia","Smart.Environment.Index",4148
+"Melbourne",53,"Australia","Smart.Environment.Index",3906
+"Tokyo",54,"Japan","Smart.Environment.Index",4516
+"Perth",56,"Australia","Smart.Environment.Index",4026
+"Vantaa",57,"Finland","Smart.Environment.Index",6444
+"Auckland",58,"New Zealand","Smart.Environment.Index",4974
+"Osaka",59,"Japan","Smart.Environment.Index",4758
+"Bordeaux",60,"France","Smart.Environment.Index",7586
+"Milan",61,"Italy","Smart.Environment.Index",6696
+"Madrid",62,"Spain","Smart.Environment.Index",5590
+"Daejeon",63,"South Korea","Smart.Environment.Index",4192
+"Nantes",64,"France","Smart.Environment.Index",7524
+"Brussels",65,"Belgium","Smart.Environment.Index",5950
+"Marseille",66,"France","Smart.Environment.Index",7010
+"Leeds",67,"United Kingdom","Smart.Environment.Index",7252
+"Lahti",68,"Finland","Smart.Environment.Index",6686
+"Dublin",69,"Ireland","Smart.Environment.Index",6494
+"Abu Dhabi",70,"United Arab Emirates","Smart.Environment.Index",2108
+"Verona",71,"Italy","Smart.Environment.Index",7390
+"Seoul",72,"South Korea","Smart.Environment.Index",3754
+"Nice",73,"France","Smart.Environment.Index",7480
+"Tallinn",74,"Estonia","Smart.Environment.Index",3282
+"Dubai",75,"United Arab Emirates","Smart.Environment.Index",1850
+"Catania",76,"Italy","Smart.Environment.Index",7314
+"Bayreuth",77,"Germany","Smart.Environment.Index",7696
+"Turin",78,"Italy","Smart.Environment.Index",6892
+"Florence",79,"Italy","Smart.Environment.Index",7224
+"Birmingham",80,"United Kingdom","Smart.Environment.Index",7102
+"Budapest",81,"Hungary","Smart.Environment.Index",3142
+"Bari",82,"Italy","Smart.Environment.Index",7284
+"Bratislava",83,"Slovakia","Smart.Environment.Index",3970
+"Ljubljana",84,"Slovenia","Smart.Environment.Index",4502
+"Perugia",85,"Italy","Smart.Environment.Index",7466
+"Hong Kong",87,"China","Smart.Environment.Index",3340
+"Barcelona",88,"Spain","Smart.Environment.Index",5620
+"Ancona",89,"Italy","Smart.Environment.Index",7496
+"Lisbon",90,"Portugal","Smart.Environment.Index",4994
+"Prague",91,"Czech Republic","Smart.Environment.Index",2962
+"Rome",92,"Italy","Smart.Environment.Index",6468
+"Shanghai",93,"China","Smart.Environment.Index",2936
+"Naples",96,"Italy","Smart.Environment.Index",6802
+"Moscow",97,"Russia","Smart.Environment.Index",2772
+"Riga",98,"Latvia","Smart.Environment.Index",4584
+"Beijing",99,"China","Smart.Environment.Index",2998
+"Calgary",101,"Canada","Smart.Environment.Index",4052
+"Edmonton",102,"Canada","Smart.Environment.Index",4499
+"Västerås",13,"Sweden","Smart.Environment.Index",8296
+"Jyväskylä",55,"Finland","Smart.Environment.Index",6624
+"Düsseldorf",26,"Germany","Smart.Environment.Index",7756
+"Oslo",1,"Norway","Smart.Government.Index",7516
+"Bergen",2,"Norway","Smart.Government.Index",7350
+"Amsterdam",3,"Netherlands","Smart.Government.Index",8528
+"Copenhagen",4,"Denmark","Smart.Government.Index",8726
+"Stockholm",5,"Sweden","Smart.Government.Index",8354
+"Montreal",6,"Canada","Smart.Government.Index",6624
+"Vienna",7,"Austria","Smart.Government.Index",6232
+"Odense",8,"Denmark","Smart.Government.Index",7578
+"Singapore",9,"Singapore","Smart.Government.Index",5560
+"Boston",10,"United States","Smart.Government.Index",6020
+"Zurich",11,"Switzerland","Smart.Government.Index",5856
+"Trondheim",12,"Norway","Smart.Government.Index",6686
+"Aalborg",14,"Denmark","Smart.Government.Index",7502
+"Ottawa",15,"Canada","Smart.Government.Index",7550
+"Stavanger",17,"Norway","Smart.Government.Index",6600
+"Los Angeles",18,"United States","Smart.Government.Index",4750
+"Helsinki",19,"Finland","Smart.Government.Index",6580
+"Vancouver",20,"Canada","Smart.Government.Index",6726
+"Berlin",21,"Germany","Smart.Government.Index",5940
+"Toronto",22,"Canada","Smart.Government.Index",6158
+"New York",23,"United States","Smart.Government.Index",6038
+"Chicago",24,"United States","Smart.Government.Index",5170
+"Taipei",25,"Taiwan","Smart.Government.Index",7044
+"Reykjavik",27,"Iceland","Smart.Government.Index",7604
+"Lyon",28,"France","Smart.Government.Index",6396
+"Helsingborg",29,"Sweden","Smart.Government.Index",7396
+"Munich",30,"Germany","Smart.Government.Index",6470
+"Philadelphia",31,"United States","Smart.Government.Index",5356
+"Hamburg",32,"Germany","Smart.Government.Index",6038
+"Geneva",33,"Switzerland","Smart.Government.Index",5326
+"Luxembourg",34,"Luxembourg","Smart.Government.Index",8254
+"Aarhus",35,"Denmark","Smart.Government.Index",6574
+"Turku",36,"Finland","Smart.Government.Index",5986
+"Espoo",37,"Finland","Smart.Government.Index",6256
+"Paris",38,"France","Smart.Government.Index",6898
+"Hannover",39,"Germany","Smart.Government.Index",6422
+"Strasbourg",40,"France","Smart.Government.Index",6792
+"Joensuu",41,"Finland","Smart.Government.Index",6356
+"Sydney",42,"Australia","Smart.Government.Index",5932
+"San Francisco",44,"United States","Smart.Government.Index",4746
+"Oulu",45,"Finland","Smart.Government.Index",5642
+"Cologne",46,"Germany","Smart.Government.Index",4090
+"Bochum",47,"Germany","Smart.Government.Index",6058
+"Stuttgart",48,"Germany","Smart.Government.Index",5888
+"London",50,"United Kingdom","Smart.Government.Index",5014
+"Tampere",51,"Finland","Smart.Government.Index",6696
+"Adelaide",52,"Australia","Smart.Government.Index",5792
+"Melbourne",53,"Australia","Smart.Government.Index",5848
+"Tokyo",54,"Japan","Smart.Government.Index",5476
+"Perth",56,"Australia","Smart.Government.Index",5134
+"Vantaa",57,"Finland","Smart.Government.Index",5722
+"Auckland",58,"New Zealand","Smart.Government.Index",5972
+"Osaka",59,"Japan","Smart.Government.Index",5732
+"Bordeaux",60,"France","Smart.Government.Index",6832
+"Milan",61,"Italy","Smart.Government.Index",5554
+"Madrid",62,"Spain","Smart.Government.Index",5390
+"Daejeon",63,"South Korea","Smart.Government.Index",4304
+"Nantes",64,"France","Smart.Government.Index",5932
+"Brussels",65,"Belgium","Smart.Government.Index",6110
+"Marseille",66,"France","Smart.Government.Index",4188
+"Leeds",67,"United Kingdom","Smart.Government.Index",4342
+"Lahti",68,"Finland","Smart.Government.Index",5880
+"Dublin",69,"Ireland","Smart.Government.Index",4784
+"Abu Dhabi",70,"United Arab Emirates","Smart.Government.Index",5948
+"Verona",71,"Italy","Smart.Government.Index",6586
+"Seoul",72,"South Korea","Smart.Government.Index",5222
+"Nice",73,"France","Smart.Government.Index",4500
+"Tallinn",74,"Estonia","Smart.Government.Index",7640
+"Dubai",75,"United Arab Emirates","Smart.Government.Index",4142
+"Catania",76,"Italy","Smart.Government.Index",5328
+"Bayreuth",77,"Germany","Smart.Government.Index",5630
+"Turin",78,"Italy","Smart.Government.Index",5612
+"Florence",79,"Italy","Smart.Government.Index",6582
+"Birmingham",80,"United Kingdom","Smart.Government.Index",3644
+"Budapest",81,"Hungary","Smart.Government.Index",5732
+"Bari",82,"Italy","Smart.Government.Index",4944
+"Bratislava",83,"Slovakia","Smart.Government.Index",6438
+"Ljubljana",84,"Slovenia","Smart.Government.Index",5490
+"Perugia",85,"Italy","Smart.Government.Index",5018
+"Hong Kong",87,"China","Smart.Government.Index",4984
+"Barcelona",88,"Spain","Smart.Government.Index",4846
+"Ancona",89,"Italy","Smart.Government.Index",5826
+"Lisbon",90,"Portugal","Smart.Government.Index",5266
+"Prague",91,"Czech Republic","Smart.Government.Index",4878
+"Rome",92,"Italy","Smart.Government.Index",4066
+"Shanghai",93,"China","Smart.Government.Index",3842
+"Naples",96,"Italy","Smart.Government.Index",4008
+"Moscow",97,"Russia","Smart.Government.Index",5078
+"Riga",98,"Latvia","Smart.Government.Index",4616
+"Beijing",99,"China","Smart.Government.Index",2806
+"Calgary",101,"Canada","Smart.Government.Index",5946
+"Edmonton",102,"Canada","Smart.Government.Index",6396
+"Västerås",13,"Sweden","Smart.Government.Index",7840
+"Jyväskylä",55,"Finland","Smart.Government.Index",5852
+"Düsseldorf",26,"Germany","Smart.Government.Index",5040
+"Oslo",1,"Norway","Smart.Economy.Index",4565
+"Bergen",2,"Norway","Smart.Economy.Index",4905
+"Amsterdam",3,"Netherlands","Smart.Economy.Index",8095
+"Copenhagen",4,"Denmark","Smart.Economy.Index",5580
+"Stockholm",5,"Sweden","Smart.Economy.Index",4330
+"Montreal",6,"Canada","Smart.Economy.Index",6180
+"Vienna",7,"Austria","Smart.Economy.Index",5415
+"Odense",8,"Denmark","Smart.Economy.Index",5200
+"Singapore",9,"Singapore","Smart.Economy.Index",5535
+"Boston",10,"United States","Smart.Economy.Index",8935
+"Zurich",11,"Switzerland","Smart.Economy.Index",6380
+"Trondheim",12,"Norway","Smart.Economy.Index",4945
+"Aalborg",14,"Denmark","Smart.Economy.Index",5165
+"Ottawa",15,"Canada","Smart.Economy.Index",4285
+"Stavanger",17,"Norway","Smart.Economy.Index",5360
+"Los Angeles",18,"United States","Smart.Economy.Index",7235
+"Helsinki",19,"Finland","Smart.Economy.Index",7130
+"Vancouver",20,"Canada","Smart.Economy.Index",7385
+"Berlin",21,"Germany","Smart.Economy.Index",6060
+"Toronto",22,"Canada","Smart.Economy.Index",5885
+"New York",23,"United States","Smart.Economy.Index",6520
+"Chicago",24,"United States","Smart.Economy.Index",7265
+"Taipei",25,"Taiwan","Smart.Economy.Index",3310
+"Reykjavik",27,"Iceland","Smart.Economy.Index",9225
+"Lyon",28,"France","Smart.Economy.Index",7510
+"Helsingborg",29,"Sweden","Smart.Economy.Index",6245
+"Munich",30,"Germany","Smart.Economy.Index",6385
+"Philadelphia",31,"United States","Smart.Economy.Index",7060
+"Hamburg",32,"Germany","Smart.Economy.Index",6925
+"Geneva",33,"Switzerland","Smart.Economy.Index",6150
+"Luxembourg",34,"Luxembourg","Smart.Economy.Index",8440
+"Aarhus",35,"Denmark","Smart.Economy.Index",4595
+"Turku",36,"Finland","Smart.Economy.Index",8100
+"Espoo",37,"Finland","Smart.Economy.Index",7950
+"Paris",38,"France","Smart.Economy.Index",6970
+"Hannover",39,"Germany","Smart.Economy.Index",6660
+"Strasbourg",40,"France","Smart.Economy.Index",7345
+"Joensuu",41,"Finland","Smart.Economy.Index",8325
+"Sydney",42,"Australia","Smart.Economy.Index",5075
+"San Francisco",44,"United States","Smart.Economy.Index",8565
+"Oulu",45,"Finland","Smart.Economy.Index",8135
+"Cologne",46,"Germany","Smart.Economy.Index",7020
+"Bochum",47,"Germany","Smart.Economy.Index",7645
+"Stuttgart",48,"Germany","Smart.Economy.Index",7485
+"London",50,"United Kingdom","Smart.Economy.Index",5840
+"Tampere",51,"Finland","Smart.Economy.Index",8365
+"Adelaide",52,"Australia","Smart.Economy.Index",3410
+"Melbourne",53,"Australia","Smart.Economy.Index",2780
+"Tokyo",54,"Japan","Smart.Economy.Index",1800
+"Perth",56,"Australia","Smart.Economy.Index",3370
+"Vantaa",57,"Finland","Smart.Economy.Index",7760
+"Auckland",58,"New Zealand","Smart.Economy.Index",3025
+"Osaka",59,"Japan","Smart.Economy.Index",2105
+"Bordeaux",60,"France","Smart.Economy.Index",7720
+"Milan",61,"Italy","Smart.Economy.Index",5490
+"Madrid",62,"Spain","Smart.Economy.Index",4735
+"Daejeon",63,"South Korea","Smart.Economy.Index",2250
+"Nantes",64,"France","Smart.Economy.Index",7495
+"Brussels",65,"Belgium","Smart.Economy.Index",5905
+"Marseille",66,"France","Smart.Economy.Index",6955
+"Leeds",67,"United Kingdom","Smart.Economy.Index",6470
+"Lahti",68,"Finland","Smart.Economy.Index",8210
+"Dublin",69,"Ireland","Smart.Economy.Index",7775
+"Abu Dhabi",70,"United Arab Emirates","Smart.Economy.Index",3325
+"Verona",71,"Italy","Smart.Economy.Index",7155
+"Seoul",72,"South Korea","Smart.Economy.Index",1490
+"Nice",73,"France","Smart.Economy.Index",7795
+"Tallinn",74,"Estonia","Smart.Economy.Index",7585
+"Dubai",75,"United Arab Emirates","Smart.Economy.Index",2395
+"Catania",76,"Italy","Smart.Economy.Index",6890
+"Bayreuth",77,"Germany","Smart.Economy.Index",6395
+"Turin",78,"Italy","Smart.Economy.Index",6095
+"Florence",79,"Italy","Smart.Economy.Index",6815
+"Birmingham",80,"United Kingdom","Smart.Economy.Index",7400
+"Budapest",81,"Hungary","Smart.Economy.Index",2410
+"Bari",82,"Italy","Smart.Economy.Index",6925
+"Bratislava",83,"Slovakia","Smart.Economy.Index",6740
+"Ljubljana",84,"Slovenia","Smart.Economy.Index",7190
+"Perugia",85,"Italy","Smart.Economy.Index",7305
+"Hong Kong",87,"China","Smart.Economy.Index",4780
+"Barcelona",88,"Spain","Smart.Economy.Index",5745
+"Ancona",89,"Italy","Smart.Economy.Index",7910
+"Lisbon",90,"Portugal","Smart.Economy.Index",6850
+"Prague",91,"Czech Republic","Smart.Economy.Index",3950
+"Rome",92,"Italy","Smart.Economy.Index",5000
+"Shanghai",93,"China","Smart.Economy.Index",4430
+"Naples",96,"Italy","Smart.Economy.Index",5640
+"Moscow",97,"Russia","Smart.Economy.Index",5030
+"Riga",98,"Latvia","Smart.Economy.Index",7380
+"Beijing",99,"China","Smart.Economy.Index",4905
+"Calgary",101,"Canada","Smart.Economy.Index",8022
+"Edmonton",102,"Canada","Smart.Economy.Index",8022
+"Västerås",13,"Sweden","Smart.Economy.Index",5980
+"Jyväskylä",55,"Finland","Smart.Economy.Index",8175
+"Düsseldorf",26,"Germany","Smart.Economy.Index",6700
+"Oslo",1,"Norway","Smart.People.Index",8618
+"Bergen",2,"Norway","Smart.People.Index",8050
+"Amsterdam",3,"Netherlands","Smart.People.Index",7098
+"Copenhagen",4,"Denmark","Smart.People.Index",5780
+"Stockholm",5,"Sweden","Smart.People.Index",6743
+"Montreal",6,"Canada","Smart.People.Index",8465
+"Vienna",7,"Austria","Smart.People.Index",8580
+"Odense",8,"Denmark","Smart.People.Index",6955
+"Singapore",9,"Singapore","Smart.People.Index",9695
+"Boston",10,"United States","Smart.People.Index",6573
+"Zurich",11,"Switzerland","Smart.People.Index",7200
+"Trondheim",12,"Norway","Smart.People.Index",7558
+"Aalborg",14,"Denmark","Smart.People.Index",6955
+"Ottawa",15,"Canada","Smart.People.Index",6703
+"Stavanger",17,"Norway","Smart.People.Index",7595
+"Los Angeles",18,"United States","Smart.People.Index",7498
+"Helsinki",19,"Finland","Smart.People.Index",7523
+"Vancouver",20,"Canada","Smart.People.Index",7725
+"Berlin",21,"Germany","Smart.People.Index",6040
+"Toronto",22,"Canada","Smart.People.Index",7158
+"New York",23,"United States","Smart.People.Index",6610
+"Chicago",24,"United States","Smart.People.Index",7123
+"Taipei",25,"Taiwan","Smart.People.Index",7858
+"Reykjavik",27,"Iceland","Smart.People.Index",7285
+"Lyon",28,"France","Smart.People.Index",7075
+"Helsingborg",29,"Sweden","Smart.People.Index",4590
+"Munich",30,"Germany","Smart.People.Index",5398
+"Philadelphia",31,"United States","Smart.People.Index",6930
+"Hamburg",32,"Germany","Smart.People.Index",4660
+"Geneva",33,"Switzerland","Smart.People.Index",5650
+"Luxembourg",34,"Luxembourg","Smart.People.Index",4723
+"Aarhus",35,"Denmark","Smart.People.Index",5818
+"Turku",36,"Finland","Smart.People.Index",7050
+"Espoo",37,"Finland","Smart.People.Index",6503
+"Paris",38,"France","Smart.People.Index",6528
+"Hannover",39,"Germany","Smart.People.Index",5208
+"Strasbourg",40,"France","Smart.People.Index",5715
+"Joensuu",41,"Finland","Smart.People.Index",5463
+"Sydney",42,"Australia","Smart.People.Index",7305
+"San Francisco",44,"United States","Smart.People.Index",5495
+"Oulu",45,"Finland","Smart.People.Index",7105
+"Cologne",46,"Germany","Smart.People.Index",6853
+"Bochum",47,"Germany","Smart.People.Index",5340
+"Stuttgart",48,"Germany","Smart.People.Index",4908
+"London",50,"United Kingdom","Smart.People.Index",6360
+"Tampere",51,"Finland","Smart.People.Index",5293
+"Adelaide",52,"Australia","Smart.People.Index",4678
+"Melbourne",53,"Australia","Smart.People.Index",5188
+"Tokyo",54,"Japan","Smart.People.Index",4158
+"Perth",56,"Australia","Smart.People.Index",4810
+"Vantaa",57,"Finland","Smart.People.Index",5500
+"Auckland",58,"New Zealand","Smart.People.Index",7855
+"Osaka",59,"Japan","Smart.People.Index",3403
+"Bordeaux",60,"France","Smart.People.Index",3425
+"Milan",61,"Italy","Smart.People.Index",6185
+"Madrid",62,"Spain","Smart.People.Index",7815
+"Daejeon",63,"South Korea","Smart.People.Index",8635
+"Nantes",64,"France","Smart.People.Index",4468
+"Brussels",65,"Belgium","Smart.People.Index",6680
+"Marseille",66,"France","Smart.People.Index",4920
+"Leeds",67,"United Kingdom","Smart.People.Index",6363
+"Lahti",68,"Finland","Smart.People.Index",4385
+"Dublin",69,"Ireland","Smart.People.Index",5425
+"Abu Dhabi",70,"United Arab Emirates","Smart.People.Index",5933
+"Verona",71,"Italy","Smart.People.Index",5660
+"Seoul",72,"South Korea","Smart.People.Index",7860
+"Nice",73,"France","Smart.People.Index",5675
+"Tallinn",74,"Estonia","Smart.People.Index",4955
+"Dubai",75,"United Arab Emirates","Smart.People.Index",7125
+"Catania",76,"Italy","Smart.People.Index",5300
+"Bayreuth",77,"Germany","Smart.People.Index",3108
+"Turin",78,"Italy","Smart.People.Index",4280
+"Florence",79,"Italy","Smart.People.Index",3580
+"Birmingham",80,"United Kingdom","Smart.People.Index",4548
+"Budapest",81,"Hungary","Smart.People.Index",7260
+"Bari",82,"Italy","Smart.People.Index",5848
+"Bratislava",83,"Slovakia","Smart.People.Index",5485
+"Ljubljana",84,"Slovenia","Smart.People.Index",5503
+"Perugia",85,"Italy","Smart.People.Index",4730
+"Hong Kong",87,"China","Smart.People.Index",4385
+"Barcelona",88,"Spain","Smart.People.Index",3635
+"Ancona",89,"Italy","Smart.People.Index",2825
+"Lisbon",90,"Portugal","Smart.People.Index",3560
+"Prague",91,"Czech Republic","Smart.People.Index",5315
+"Rome",92,"Italy","Smart.People.Index",4298
+"Shanghai",93,"China","Smart.People.Index",4423
+"Naples",96,"Italy","Smart.People.Index",4618
+"Moscow",97,"Russia","Smart.People.Index",4143
+"Riga",98,"Latvia","Smart.People.Index",3745
+"Beijing",99,"China","Smart.People.Index",5183
+"Calgary",101,"Canada","Smart.People.Index",6424
+"Edmonton",102,"Canada","Smart.People.Index",6200
+"Västerås",13,"Sweden","Smart.People.Index",7065
+"Jyväskylä",55,"Finland","Smart.People.Index",6388
+"Düsseldorf",26,"Germany","Smart.People.Index",6703
+"Oslo",1,"Norway","Smart.Living.Index",9090
+"Bergen",2,"Norway","Smart.Living.Index",9090
+"Amsterdam",3,"Netherlands","Smart.Living.Index",7280
+"Copenhagen",4,"Denmark","Smart.Living.Index",7200
+"Stockholm",5,"Sweden","Smart.Living.Index",7730
+"Montreal",6,"Canada","Smart.Living.Index",9920
+"Vienna",7,"Austria","Smart.Living.Index",7500
+"Odense",8,"Denmark","Smart.Living.Index",7200
+"Singapore",9,"Singapore","Smart.Living.Index",10000
+"Boston",10,"United States","Smart.Living.Index",6220
+"Zurich",11,"Switzerland","Smart.Living.Index",7960
+"Trondheim",12,"Norway","Smart.Living.Index",9090
+"Aalborg",14,"Denmark","Smart.Living.Index",7200
+"Ottawa",15,"Canada","Smart.Living.Index",9920
+"Stavanger",17,"Norway","Smart.Living.Index",9090
+"Los Angeles",18,"United States","Smart.Living.Index",6220
+"Helsinki",19,"Finland","Smart.Living.Index",8710
+"Vancouver",20,"Canada","Smart.Living.Index",9920
+"Berlin",21,"Germany","Smart.Living.Index",5690
+"Toronto",22,"Canada","Smart.Living.Index",9920
+"New York",23,"United States","Smart.Living.Index",6220
+"Chicago",24,"United States","Smart.Living.Index",6220
+"Taipei",25,"Taiwan","Smart.Living.Index",7350
+"Reykjavik",27,"Iceland","Smart.Living.Index",4780
+"Lyon",28,"France","Smart.Living.Index",6750
+"Helsingborg",29,"Sweden","Smart.Living.Index",7730
+"Munich",30,"Germany","Smart.Living.Index",5690
+"Philadelphia",31,"United States","Smart.Living.Index",6220
+"Hamburg",32,"Germany","Smart.Living.Index",5690
+"Geneva",33,"Switzerland","Smart.Living.Index",7960
+"Luxembourg",34,"Luxembourg","Smart.Living.Index",6820
+"Aarhus",35,"Denmark","Smart.Living.Index",7200
+"Turku",36,"Finland","Smart.Living.Index",8710
+"Espoo",37,"Finland","Smart.Living.Index",8710
+"Paris",38,"France","Smart.Living.Index",6750
+"Hannover",39,"Germany","Smart.Living.Index",5690
+"Strasbourg",40,"France","Smart.Living.Index",6750
+"Joensuu",41,"Finland","Smart.Living.Index",8710
+"Sydney",42,"Australia","Smart.Living.Index",9620
+"San Francisco",44,"United States","Smart.Living.Index",6220
+"Oulu",45,"Finland","Smart.Living.Index",8710
+"Cologne",46,"Germany","Smart.Living.Index",5690
+"Bochum",47,"Germany","Smart.Living.Index",5690
+"Stuttgart",48,"Germany","Smart.Living.Index",5690
+"London",50,"United Kingdom","Smart.Living.Index",4550
+"Tampere",51,"Finland","Smart.Living.Index",8710
+"Adelaide",52,"Australia","Smart.Living.Index",9620
+"Melbourne",53,"Australia","Smart.Living.Index",9620
+"Tokyo",54,"Japan","Smart.Living.Index",9320
+"Perth",56,"Australia","Smart.Living.Index",9620
+"Vantaa",57,"Finland","Smart.Living.Index",8710
+"Auckland",58,"New Zealand","Smart.Living.Index",9170
+"Osaka",59,"Japan","Smart.Living.Index",9320
+"Bordeaux",60,"France","Smart.Living.Index",6750
+"Milan",61,"Italy","Smart.Living.Index",3950
+"Madrid",62,"Spain","Smart.Living.Index",2740
+"Daejeon",63,"South Korea","Smart.Living.Index",4710
+"Nantes",64,"France","Smart.Living.Index",6750
+"Brussels",65,"Belgium","Smart.Living.Index",4250
+"Marseille",66,"France","Smart.Living.Index",6750
+"Leeds",67,"United Kingdom","Smart.Living.Index",4550
+"Lahti",68,"Finland","Smart.Living.Index",8710
+"Dublin",69,"Ireland","Smart.Living.Index",7430
+"Abu Dhabi",70,"United Arab Emirates","Smart.Living.Index",2130
+"Verona",71,"Italy","Smart.Living.Index",3950
+"Seoul",72,"South Korea","Smart.Living.Index",4710
+"Nice",73,"France","Smart.Living.Index",6750
+"Tallinn",74,"Estonia","Smart.Living.Index",7810
+"Dubai",75,"United Arab Emirates","Smart.Living.Index",2130
+"Catania",76,"Italy","Smart.Living.Index",3950
+"Bayreuth",77,"Germany","Smart.Living.Index",5690
+"Turin",78,"Italy","Smart.Living.Index",3950
+"Florence",79,"Italy","Smart.Living.Index",3950
+"Birmingham",80,"United Kingdom","Smart.Living.Index",4550
+"Budapest",81,"Hungary","Smart.Living.Index",3120
+"Bari",82,"Italy","Smart.Living.Index",3950
+"Bratislava",83,"Slovakia","Smart.Living.Index",2440
+"Ljubljana",84,"Slovenia","Smart.Living.Index",4180
+"Perugia",85,"Italy","Smart.Living.Index",3950
+"Hong Kong",87,"China","Smart.Living.Index",1980
+"Barcelona",88,"Spain","Smart.Living.Index",2740
+"Ancona",89,"Italy","Smart.Living.Index",3950
+"Lisbon",90,"Portugal","Smart.Living.Index",4860
+"Prague",91,"Czech Republic","Smart.Living.Index",4930
+"Rome",92,"Italy","Smart.Living.Index",3950
+"Shanghai",93,"China","Smart.Living.Index",1980
+"Naples",96,"Italy","Smart.Living.Index",3950
+"Moscow",97,"Russia","Smart.Living.Index",4100
+"Riga",98,"Latvia","Smart.Living.Index",4330
+"Beijing",99,"China","Smart.Living.Index",1980
+"Calgary",101,"Canada","Smart.Living.Index",8657
+"Edmonton",102,"Canada","Smart.Living.Index",8141
+"Västerås",13,"Sweden","Smart.Living.Index",7730
+"Jyväskylä",55,"Finland","Smart.Living.Index",8710
+"Düsseldorf",26,"Germany","Smart.Living.Index",5690
