@@ -1,4 +1,4 @@
-"City","Id","Country","Index Type","Index Value"
+"City","Id","Country","Index Category","Index Value"
 "Oslo",1,"Norway","Smart.Mobility.Index",6480
 "Bergen",2,"Norway","Smart.Mobility.Index",7097
 "Amsterdam",3,"Netherlands","Smart.Mobility.Index",7540
