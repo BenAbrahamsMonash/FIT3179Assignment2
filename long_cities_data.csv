@@ -1,4 +1,4 @@
-"City","Id","Country","variable","value"
+"City","Id","Country","Index Type","Index Value"
 "Oslo",1,"Norway","Smart.Mobility.Index",6480
 "Bergen",2,"Norway","Smart.Mobility.Index",7097
 "Amsterdam",3,"Netherlands","Smart.Mobility.Index",7540
@@ -91,9 +91,9 @@
 "Beijing",99,"China","Smart.Mobility.Index",7610
 "Calgary",101,"Canada","Smart.Mobility.Index",6675
 "Edmonton",102,"Canada","Smart.Mobility.Index",5801
-"Västerås",13,"Sweden","Smart.Mobility.Index",4683
-"Jyväskylä",55,"Finland","Smart.Mobility.Index",3900
-"Düsseldorf",26,"Germany","Smart.Mobility.Index",6658
+"VÃ¤sterÃ¥s",13,"Sweden","Smart.Mobility.Index",4683
+"JyvÃ¤skylÃ¤",55,"Finland","Smart.Mobility.Index",3900
+"DÃ¼sseldorf",26,"Germany","Smart.Mobility.Index",6658
 "Oslo",1,"Norway","Smart.Environment.Index",6512
 "Bergen",2,"Norway","Smart.Environment.Index",6876
 "Amsterdam",3,"Netherlands","Smart.Environment.Index",5558
@@ -186,9 +186,9 @@
 "Beijing",99,"China","Smart.Environment.Index",2998
 "Calgary",101,"Canada","Smart.Environment.Index",4052
 "Edmonton",102,"Canada","Smart.Environment.Index",4499
-"Västerås",13,"Sweden","Smart.Environment.Index",8296
-"Jyväskylä",55,"Finland","Smart.Environment.Index",6624
-"Düsseldorf",26,"Germany","Smart.Environment.Index",7756
+"VÃ¤sterÃ¥s",13,"Sweden","Smart.Environment.Index",8296
+"JyvÃ¤skylÃ¤",55,"Finland","Smart.Environment.Index",6624
+"DÃ¼sseldorf",26,"Germany","Smart.Environment.Index",7756
 "Oslo",1,"Norway","Smart.Government.Index",7516
 "Bergen",2,"Norway","Smart.Government.Index",7350
 "Amsterdam",3,"Netherlands","Smart.Government.Index",8528
@@ -281,9 +281,9 @@
 "Beijing",99,"China","Smart.Government.Index",2806
 "Calgary",101,"Canada","Smart.Government.Index",5946
 "Edmonton",102,"Canada","Smart.Government.Index",6396
-"Västerås",13,"Sweden","Smart.Government.Index",7840
-"Jyväskylä",55,"Finland","Smart.Government.Index",5852
-"Düsseldorf",26,"Germany","Smart.Government.Index",5040
+"VÃ¤sterÃ¥s",13,"Sweden","Smart.Government.Index",7840
+"JyvÃ¤skylÃ¤",55,"Finland","Smart.Government.Index",5852
+"DÃ¼sseldorf",26,"Germany","Smart.Government.Index",5040
 "Oslo",1,"Norway","Smart.Economy.Index",4565
 "Bergen",2,"Norway","Smart.Economy.Index",4905
 "Amsterdam",3,"Netherlands","Smart.Economy.Index",8095
@@ -376,9 +376,9 @@
 "Beijing",99,"China","Smart.Economy.Index",4905
 "Calgary",101,"Canada","Smart.Economy.Index",8022
 "Edmonton",102,"Canada","Smart.Economy.Index",8022
-"Västerås",13,"Sweden","Smart.Economy.Index",5980
-"Jyväskylä",55,"Finland","Smart.Economy.Index",8175
-"Düsseldorf",26,"Germany","Smart.Economy.Index",6700
+"VÃ¤sterÃ¥s",13,"Sweden","Smart.Economy.Index",5980
+"JyvÃ¤skylÃ¤",55,"Finland","Smart.Economy.Index",8175
+"DÃ¼sseldorf",26,"Germany","Smart.Economy.Index",6700
 "Oslo",1,"Norway","Smart.People.Index",8618
 "Bergen",2,"Norway","Smart.People.Index",8050
 "Amsterdam",3,"Netherlands","Smart.People.Index",7098
@@ -471,9 +471,9 @@
 "Beijing",99,"China","Smart.People.Index",5183
 "Calgary",101,"Canada","Smart.People.Index",6424
 "Edmonton",102,"Canada","Smart.People.Index",6200
-"Västerås",13,"Sweden","Smart.People.Index",7065
-"Jyväskylä",55,"Finland","Smart.People.Index",6388
-"Düsseldorf",26,"Germany","Smart.People.Index",6703
+"VÃ¤sterÃ¥s",13,"Sweden","Smart.People.Index",7065
+"JyvÃ¤skylÃ¤",55,"Finland","Smart.People.Index",6388
+"DÃ¼sseldorf",26,"Germany","Smart.People.Index",6703
 "Oslo",1,"Norway","Smart.Living.Index",9090
 "Bergen",2,"Norway","Smart.Living.Index",9090
 "Amsterdam",3,"Netherlands","Smart.Living.Index",7280
@@ -566,6 +566,6 @@
 "Beijing",99,"China","Smart.Living.Index",1980
 "Calgary",101,"Canada","Smart.Living.Index",8657
 "Edmonton",102,"Canada","Smart.Living.Index",8141
-"Västerås",13,"Sweden","Smart.Living.Index",7730
-"Jyväskylä",55,"Finland","Smart.Living.Index",8710
-"Düsseldorf",26,"Germany","Smart.Living.Index",5690
+"VÃ¤sterÃ¥s",13,"Sweden","Smart.Living.Index",7730
+"JyvÃ¤skylÃ¤",55,"Finland","Smart.Living.Index",8710
+"DÃ¼sseldorf",26,"Germany","Smart.Living.Index",5690
