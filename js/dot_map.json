@@ -1,0 +1,84 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/BenAbrahamsMonash/FIT3179Assignment2/main/Final_Smart_Cities.csv"
+    },
+    "config": {
+      "font": "Open Sans"
+    },
+    "params":[
+      {
+        "name": "country_selection",
+        "bind": {
+          "input": "select",
+          "options": [
+            null,
+            "Austria",
+            "Belgium",
+            "Denmark",
+            "Finland",
+            "France",
+            "Germany",
+            "Iceland",
+            "Italy",
+            "Netherlands",
+            "Norway",
+            "Spain",
+            "Sweden",
+            "Switzerland",
+            "United Kingdom"
+            
+          ],
+          "name": "Country Selection"
+        }
+      }
+    ],
+    
+
+    "width": 950,
+    "height": 750,
+    "projection": {"type":"equirectangular"},
+    "layer": [
+            {
+              "data": {
+                "url": "https://raw.githubusercontent.com/BenAbrahamsMonash/FIT3179Assignment2/main/MapVisualization/ne_110m_admin_0_countries.topojson",
+                "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+              },
+
+              
+              "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
+            },
+            {
+              "data": {
+                "url": "https://raw.githubusercontent.com/BenAbrahamsMonash/FIT3179Assignment2/main/Final_Smart_Cities.csv"
+              },
+              "transform":[
+                {
+                  "filter": "country_selection == null || datum.Country == country_selection"
+                }
+              ],
+              
+              "mark": {"type": "circle"},
+              "encoding": {
+                "tooltip": [
+                  {"field": "City", "type": "nominal"},
+                  {"field": "Country", "type": "nominal"},
+                  {"field": "Population", "type": "quantitative", "format": ","},
+                  {"field": "Smart City Index", "type": "quantitative"}
+                ],
+                "longitude": {"field": "lng", "type": "quantitative"},
+                "latitude": {"field": "lat", "type": "quantitative"},
+                "color": {
+                  "field": "Smart City Index",
+                  "type": "quantitative",
+                  "scale": {"scheme": "viridis", "reverse": true, "domainMin": 3500, "domainMax": 7500}                 
+                },
+                "size": {"value": 10},
+                "opacity": {
+                  "condition":{"param": "country_selection", "value": 1},
+                  "value": 1
+                }
+              }
+            }
+          ]
+    }
