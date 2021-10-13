@@ -1,0 +1,161 @@
+  {
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/BenAbrahamsMonash/FIT3179Assignment2/main/Final_Smart_Cities.csv"},
+    "config": {
+      "font": "Open Sans"
+    },
+    "params":[
+      {
+        "name": "city_selection",
+        "bind": {
+          "input": "select",
+          "options": [
+            null,
+            "Aalborg",
+            "Aarhus",
+            "Abu Dhabi",
+            "Adelaide",
+            "Amsterdam",
+            "Ancona",
+            "Auckland",
+            "Barcelona",
+            "Bari",
+            "Bayreuth",
+            "Beijing",
+            "Bergen",
+            "Berlin",
+            "Birmingham",
+            "Bochum",
+            "Bordeaux",
+            "Boston",
+            "Bratislava",
+            "Brussels",
+            "Budapest",
+            "Calgary",
+            "Catania",
+            "Chicago",
+            "Cologne",
+            "Copenhagen",
+            "Daejeon",
+            "Dubai",
+            "Dublin",
+            "Düsseldorf",
+            "Edmonton",
+            "Espoo",
+            "Florence",
+            "Geneva",
+            "Hamburg",
+            "Hannover",
+            "Helsingborg",
+            "Helsinki",
+            "Hong Kong",
+            "Joensuu",
+            "Jyväskylä",
+            "Lahti",
+            "Leeds",
+            "Lisbon",
+            "Ljubljana",
+            "London",
+            "Los Angeles",
+            "Luxembourg",
+            "Lyon",
+            "Madrid",
+            "Marseille",
+            "Melbourne",
+            "Milan",
+            "Montreal",
+            "Moscow",
+            "Munich",
+            "Nantes",
+            "Naples",
+            "New York",
+            "Nice",
+            "Odense",
+            "Osaka",
+            "Oslo",
+            "Ottawa",
+            "Oulu",
+            "Paris",
+            "Perth",
+            "Perugia",
+            "Philadelphia",
+            "Prague",
+            "Reykjavik",
+            "Riga",
+            "Rome",
+            "San Francisco",
+            "Seoul",
+            "Shanghai",
+            "Singapore",
+            "Stavanger",
+            "Stockholm",
+            "Strasbourg",
+            "Stuttgart",
+            "Sydney",
+            "Taipei",
+            "Tallinn",
+            "Tampere",
+            "Tokyo",
+            "Toronto",
+            "Trondheim",
+            "Turin",
+            "Turku",
+            "Vancouver",
+            "Vantaa",
+            "Verona",
+            "Vienna",
+            "Västerås",
+            "Zurich"
+            
+          ],
+          "name": "City Selection"
+        }
+      }
+    ],
+    "transform":[
+      {
+        "filter": "city_selection == null || datum.City == city_selection"
+      }
+    ],
+
+    "repeat": ["Smart People Index", "Smart Government Index", "Smart Mobility Index", "Smart Economy Index", "Smart Environment Index", "Smart City Index"],
+    "columns": 3,
+    "spec": {
+    
+
+      "mark": {"type": "circle", "opacity": 0.75
+      },
+      "encoding": {
+        "x": {
+            "field": "Population",
+            "type": "quantitative",
+            "scale": {"type": "sqrt", "domain": [0, 40000000]},
+            "axis": {"title": "Population", "tickCount": 5}
+          },
+        "y": {
+            "field": {"repeat": "repeat"}, 
+            "type": "quantitative",
+            "scale": {"domain": [1500, 10000]}
+          },
+        "tooltip": [
+          {"field": "City", "type": "nominal"},
+          {"field": "Population", "type": "quantitative", "format": ","},
+          {"field": {"repeat": "repeat"}, "type": "quantitative"},
+          {"field": "Smart City Index", "type": "quantitative"}
+          
+        ],
+        "color": {
+          "field": "Smart City Index", "type": "quantitative",
+          "scale": {
+            "scheme": "yelloworangered"
+          }
+        },
+        "opacity": {
+          "condition": {"param": "city_selection", "value": 1},
+          "value": 1
+        },
+        "size": {"value": 15}
+    }
+  }
+}
+
