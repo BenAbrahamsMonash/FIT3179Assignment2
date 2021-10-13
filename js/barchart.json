@@ -1,0 +1,39 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+        "url": "https://raw.githubusercontent.com/BenAbrahamsMonash/FIT3179Assignment2/main/Final_Smart_Cities.csv"
+    },
+    "config": {
+        "font": "Open Sans"
+      },
+
+    "height": 200,
+    "width": 1300,
+
+    "mark": "bar",
+
+    "encoding": {
+        "tooltip": [
+            {"field": "City", "type": "nominal"},
+            {"field": "Country", "type": "nominal"},
+            {"field": "Population", "type": "quantitative", "format": ","},
+            {"field": "Relative Index To Melbourne", "type": "quantitative"}
+          ],
+
+        "x": {"field": "City", 
+            "type": "nominal", 
+            "axis": {"labelAngle": -90},
+            "sort": {"op": "sum", "field": "Relative Index To Melbourne"}
+            
+        },
+        "y": {"field": "Relative Index To Melbourne", 
+            "type": "quantitative"
+        },
+
+        "color": {
+            "field": "Relative Index To Melbourne", "type": "quantitative",
+            "scale": {"range": "diverging"}
+        
+        }
+    }
+}
